@@ -16,7 +16,7 @@ The base project we're using, **nanoGPT**, is designed to be fast, simple, and a
 
 ## 2. Why Use Colab?
 
-* **Free access** to a GPU (fast processor for AI work).
+* **Free access** to a TPU(limited) (fast processor for AI work).
 * **Zero installation**—it runs fully in your browser.
 * **Shareable**—just share the link, and others can use it too.
 
